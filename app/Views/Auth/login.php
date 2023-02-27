@@ -18,7 +18,7 @@
                 <form ation="" method= "post" class="form mb-4"></form>
 
                 <div class="form-group mb-3">
-                    <label>EMAIL</label>
+                    <label>EMAIL adreas</label>
                     <input type="text" class="form-control" name="email" placeholder="email here"> 
                 </div>
                 
