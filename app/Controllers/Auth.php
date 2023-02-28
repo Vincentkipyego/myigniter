@@ -13,6 +13,6 @@ class Auth extends BaseController
 
     public function register()
     {
-        echo 'register page';
+        return view('Auth/register');
     }
 }
